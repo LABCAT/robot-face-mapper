@@ -1,6 +1,6 @@
-## PS2 MDDN 342 2017
+## Robot Face Mapper
 
-## Final Version
+![alt text](https://raw.githubusercontent.com/LABCAT/robot-face-mapper/master/preview.jpg)
 
 At the beginning of this assignment I had a goal of creating a tool can convert portrait photos in robot faces. I have come very close to achieving that goal.  The only thing missing is the ability for someone to upload their own photo.  
 
