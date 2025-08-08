@@ -2,6 +2,8 @@
 
 ![alt text](https://raw.githubusercontent.com/LABCAT/robot-face-mapper/master/preview.jpg)
 
+Live site: https://labcat.github.io/robot-face-mapper/
+
 At the beginning of this assignment I had a goal of creating a tool can convert portrait photos in robot faces. I have come very close to achieving that goal.  The only thing missing is the ability for someone to upload their own photo.  
 
 The project was quite challenging as it required some out of the box thinking to turn the provided data into features that would appear on a robot face.  I started with the most basic features your expect to find on a robot, the eyes and the mouth.  As I worked with the code I started to think of other ways I could use the data.  A great example of this is the antennas and static electricity with have been created from the eyebrow data.  
